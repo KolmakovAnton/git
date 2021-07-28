@@ -1,0 +1,25 @@
+{
+  "name": "type-script-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolmakovAnton/git.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KolmakovAnton/git/issues"
+  },
+  "homepage": "https://github.com/KolmakovAnton/git#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.17.59",
+    "typescript": "^4.2.4",
+    "tsc": "^2.0.3"
+  }
+}
